@@ -5,6 +5,8 @@ custom mask developed at UT.  you will need to grab the template
 and mask from the data directory and then change the paths to those
 images in the code
 
+Custom  Python developers (https://www.chrisranjana.com/pythonmysqlimport.html)
+
 launch.py: this is an experimental front-end for the launch_qsub
 function to allow it to be used from the command line.  not well 
 tested yet.
